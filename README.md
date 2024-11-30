@@ -15,7 +15,7 @@
 
 ### Demo Screeshots
 
-![Car Desktop Demo](https://github.com/rishabhkumar3387/Zidio-Internship-Project/blob/master/Untitled.png)
+![Car Desktop Demo](https://github.com/rishabhkumar3387/Zidio-Internship-Project/Untitled.png)
 
 ### Prerequisites
 
