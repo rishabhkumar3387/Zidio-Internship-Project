@@ -1,9 +1,6 @@
   <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/sundramsharma1/Zidio_Internship)
-  ![GitHub stars](https://img.shields.io/github/stars/sundramsharma1/Zidio_Internship?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/sundramsharma1/Zidio_Internship?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/StarkSundram?style=social)](https://twitter.com/intent/follow?screen_name=StarkSundram)
+
 <br />
 <br />
 
@@ -18,7 +15,7 @@
 
 ### Demo Screeshots
 
-![Car Desktop Demo](https://github.com/sundramsharma1/Zidio_Internship/blob/master/Untitled.png)
+![Car Desktop Demo](https://github.com/rishabhkumar3387/Zidio-Internship-Project/blob/master/Untitled.png)
 
 ### Prerequisites
 
@@ -33,15 +30,15 @@ To run **Feecback Collection System** locally, run this command on your git bash
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/sundramsharma1/Zidio_Internship.git
+sudo git clone https://github.com/rishabhkumar3387/Zidio-Internship-Project.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/sundramsharma1/Zidio_Internship.git
+git clone https://github.com/rishabhkumar3387/Zidio-Internship-Project.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/StarkSundram).
+If you want to contact with me you can reach me at 
